@@ -43,3 +43,7 @@ This project demonstrates the integration of multiple NLP and machine learning t
 
 ### N.B:
 To test each part of the code separately, there is a folder called 'Examples', and there are also some test images in the folder called 'test_images'.
+To run the project, first run the `part1.py` script, then in your terminal run the following command:
+```sh
+streamlit run part2.py
+```
